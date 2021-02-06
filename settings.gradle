@@ -1,0 +1,3 @@
+include ':miniballstobigview'
+include ':app'
+rootProject.name = "LinkedMiniBallsToBigView"
